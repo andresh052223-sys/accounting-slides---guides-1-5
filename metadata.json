@@ -1,0 +1,6 @@
+{
+  "name": "SENA Accounting English - 20 Levels",
+  "description": "Interactive classroom presentation for teaching accounting English across 20 structured levels with projector-optimized display and keyboard navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
